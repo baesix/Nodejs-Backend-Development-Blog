@@ -1,4 +1,4 @@
-## CRUD Application Implemented with Fetch API & Mongodb
+## CRUD Application implemented with Fetch API & Mongodb
 
 ### Libraries and Tools used  
 
